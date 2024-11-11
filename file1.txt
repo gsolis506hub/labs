@@ -1,1 +1,2 @@
 Este es el fix del codigo en file1 para el cliente
+Cambio A en file limpio
