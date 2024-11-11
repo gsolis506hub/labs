@@ -12,3 +12,38 @@ function 1010{
      return
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+funcion 11_11{
+
+
+
+    aqui va la otra funcion de 11:11
+}
+
+
+
