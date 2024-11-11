@@ -4,8 +4,6 @@ Insertion on the main file as source
 Brazo 1:  08:08 
 branched to Brazo 2
 
-
-
 function 1010{
      var = 
      if
@@ -13,37 +11,7 @@ function 1010{
 
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 funcion 11_11{
-
-
-
     aqui va la otra funcion de 11:11
 }
-
-
 
